@@ -2,6 +2,8 @@
 
 A 5-in-1 educational, 3D-printed Arduino starter kit.
 
+_Originally published on 22 February 2020._
+
 ![Super Bot Gears](images/cover.jpg)
 
 This is an educational Arduino set I've prepared for my nieces to teach them about electronics. While I was at it, I decided to also make it open source and publish it on the internet for free!
